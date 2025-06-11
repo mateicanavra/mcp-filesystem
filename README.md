@@ -2,6 +2,10 @@
 
 Node.js server implementing Model Context Protocol (MCP) for filesystem operations with comprehensive permission controls and enhanced functionality.
 
+<a href="https://glama.ai/mcp/servers/@rawr-ai/mcp-filesystem">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@rawr-ai/mcp-filesystem/badge" alt="Filesystem Server MCP server" />
+</a>
+
 ## Features
 
 - Granular permission controls (read-only, full access, or specific operation permissions)
